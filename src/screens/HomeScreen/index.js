@@ -104,7 +104,7 @@ export default function HomeScreen() {
         as="main"
         styleSheet={{
           flex: 1,
-          backgroundColor: '#F8E9D7',
+          backgroundColor: theme.colors.neutral["050"],
         }}
       >
         <Box

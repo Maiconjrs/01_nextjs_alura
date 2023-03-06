@@ -99,7 +99,7 @@ export const theme = {
         },
         neutral: {
             "000": "#FFFFFF",
-            "050": "#F7F7F7",
+            "050": "#F8E9D7",
             "100": "#E1E1E1",
             "200": "#CFCFCF",
             "300": "#B1B1B1",
