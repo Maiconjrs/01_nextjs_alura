@@ -33,7 +33,7 @@ export default function Footer() {
             color: theme.colors.neutral[400],
           }}
         >
-          &copy; {new Date().getFullYear()} Maicon Rauber. Formação Alura.
+          &copy; {new Date().getFullYear()} Daniela Kautzmann. Formação Alura.
         </Text>
       </Box>
     </Box>
